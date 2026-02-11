@@ -37,6 +37,9 @@ export default function RootLayout({
               <Link href="/blogs">Blogs</Link>
             </li>
             <li>
+              <Link href="/quotes">Quotes</Link>
+            </li>
+            <li>
               <Link href="/blogs/Article">Article</Link>
             </li>
             <li>
